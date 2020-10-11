@@ -26,6 +26,16 @@ const addressTypes = {
   0xc4: {
     type: 'p2sh',
     network: 'testnet'
+  },
+
+  0x1e: {
+    type: 'p2sh',
+    network: 'divi'
+  },
+
+  0x30: {
+    type: 'p2sh',
+    network: 'ltc'
   }
 };
 
