@@ -2,7 +2,9 @@ declare module "bitcoin-address-validation" {
   export enum Network {
     mainnet = "mainnet",
     testnet = "testnet",
-    regtest = "regtest"
+    regtest = "regtest",
+    divi = "divi",
+    ltc = "ltc"
   }
   export enum AddressType {
     p2pkh = "p2pkh",
